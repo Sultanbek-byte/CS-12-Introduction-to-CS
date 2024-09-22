@@ -1,0 +1,9 @@
+Microsoft is the one of the biggest corporation of the world that produces in priority software and not that large-scale hardware.
+At the moment this company is one of the market lider, which products are wide-spread.
+Main products are: Windows OS for PCs' and Servers. And also it has a lot of Software products for daily comfortable using by common ppl.
+Document software: Microsoft 365 (formerly Office 365): Subscription productivity suite including Word, Excel, PowerPoint, Outlook and other tools.
+Microsoft Azure: A comprehensive cloud platform providing services for compute, networking, database, storage and artificial intelligence (AI). Azure competes with other cloud platforms such as Amazon Web Services (AWS) and Google Cloud Platform (GCP). Azure is widely used for application deployment, data management, and cloud application support.
+Tools for developers:
+Visual Studio: A powerful integrated development environment (IDE) used by developers to create software, websites, and applications. Supports many programming languages and frameworks. Visual Studio Code is a lighter, open source editor designed for quick development tasks.
+Collaboration and communication tools: 
+Microsoft Teams: A communication and collaboration platform integrated into Microsoft 365. Offers chat, video conferencing, file sharing and app integration, making it popular for remote work. Skype: A voice and video calling service that was once a leader in online communications. Many of its features are now included in Microsoft Teams
